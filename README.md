@@ -2,6 +2,8 @@
 
 👽💫A ransomware for the windows operating system.
 
+Gostou o projeto? Por favor considere <a href="https://github.com/hebertcisco/hebertcisco/blob/main/.github/patreon.md">ser um apoiador</a> e receba brindes exclusivos!
+
 ## Installation
 
 ```
