@@ -7,7 +7,7 @@ Gostou o projeto? Por favor considere <a href="https://github.com/hebertcisco/he
 ## Installation
 
 ```
-$ git clone https://github.com/vsp0/IruPlori.git
+$ git clone https://github.com/hebertcisco/IruPlori.git
 $ cd IruPlori/
 $ pip3 install -r requirements.txt
 ```
